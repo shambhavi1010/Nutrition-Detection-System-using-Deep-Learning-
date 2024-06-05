@@ -39,7 +39,7 @@ To run the code in this project, you will need the following dependencies instal
 4.Matplotlib: For data visualization
 5.Pandas: For data manipulation and preprocessing
 # Workflow 
-![Flowchart Building (1)](https://github.com/saumitkunder/EEG-DATA-SYNTHESIS-USING-GANS/assets/109196162/427f3e8b-7df1-4565-8f3b-a04d9143a14f)
+![Flowchart Building (1)](https://github.com/shambhavi1010/Nutrition-Detection-System-using-Deep-Learning-/blob/main/DL%20Flow.png)
 
 
 
