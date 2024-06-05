@@ -120,7 +120,7 @@ Classification Report of MobileNet
 
 
 Confusion Matrix for MobileNet
-![image](https://github.com/saumitkunder/EEG-DATA-SYNTHESIS-USING-GANS/assets/126694480/37171f36-179e-41d2-b143-c8ba73ae4e36)
+![image](https://github.com/shambhavi1010/Nutrition-Detection-System-using-Deep-Learning-/blob/main/confusion%20matrix%20MOBILENET.png)
 
 
 
