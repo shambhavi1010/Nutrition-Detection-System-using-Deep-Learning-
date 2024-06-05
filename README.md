@@ -62,7 +62,7 @@ Dataset collected by the author consists of over 600-700 images of food cuisines
  Author uses Label Encoder and One Hot Encoding methods to encode the labels of every image into encodings.
  Firstly, labels are converted to numerical values.
 # Data Visualised
-![Flowchart Building (1)](https://github.com/shambhavi1010/Nutrition-Detection-System-using-Deep-Learning-/blob/main/DL%20Flow.png)
+![Flowchart Building (1)](https://github.com/shambhavi1010/Nutrition-Detection-System-using-Deep-Learning-/blob/main/Data%20DL.png)
 
 # Model Used
 
