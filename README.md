@@ -112,10 +112,9 @@ This detailed training process is deployed using simple streamlit and for the nu
 # Results
 
 Classification Report of MobileNet
-![image](https://github.com/saumitkunder/EEG-DATA-SYNTHESIS-USING-GANS/assets/126694480/7db704e6-f3bb-4be1-b4f8-861d6717bfa8)
+![image](https://github.com/shambhavi1010/Nutrition-Detection-System-using-Deep-Learning-/blob/main/CLASSIFICATION%20REPORT%20MobileNet.png)
 
-Data visualized
-![download (1) (2)](https://github.com/saumitkunder/EEG-DATA-SYNTHESIS-USING-GANS/assets/126694480/6a99207d-e75e-4949-a0c7-38e782d8f778)
+
 
 
 
